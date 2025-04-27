@@ -36,5 +36,3 @@ function discountPrices(prices, discount) {
 }
 
 module.exports = { sumValues, discountPrices };
-
-// this is a comment to test the PR
